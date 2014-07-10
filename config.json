@@ -1,0 +1,8 @@
+{
+    "TwitterVerticle": {
+        "OAuthConsumerKey":"",
+        "OAuthConsumerSecret":"",
+        "OAuthAccessToken":"",
+        "OAuthAccessTokenSecret":""
+    }
+}
